@@ -1,0 +1,3 @@
+# Penn State ArchivesSpace Scripts
+
+These are scripts that we use in the [Eberly Family Special Collections Library](https://libraries.psu.edu/specialcollections) at Penn State University to batch edit data in [our ArchivesSpace instance](https://archives.libraries.psu.edu). They are mostly written in Python and rely on [the ArchivesSnake Python library](https://github.com/archivesspace-labs/ArchivesSnake) for interfacing with [the ArchivesSpace API](https://archivesspace.github.io/archivesspace/api/#introduction).
